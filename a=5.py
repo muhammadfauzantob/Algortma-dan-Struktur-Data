@@ -1,0 +1,17 @@
+a=5
+b=5
+nama_a='budi'
+nama_b='budi'
+
+#output True
+print('a is b',a is b)
+#output False
+print('a is not b:',a is b)
+
+#output True
+print('nama_a is nama_b:', nama_a is nama_b)
+#output False
+print('nama_a is not b:',nama_a is not nama_b)
+
+nama=input('muhammad fauzan:')
+print('halo,',nama, '..selamat datang! ')
